@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NLXPM
+- 👋 Hi, I’m @CodyakaCoco
 - 👀 I’m interested in conversational ai
 - 🌱 I’m currently learning project and product management
 - 💞️ I’m looking to collaborate on SAAS
